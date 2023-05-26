@@ -12,3 +12,5 @@
 - ecdsa_performance.py
 ### For postquantum algorithm test results
 - PostKwantum_DigitalSignatures.py
+
+The results of the test can be found in the folder testing.
